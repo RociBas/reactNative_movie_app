@@ -5,7 +5,7 @@ export default function Index() {
   verifyInstallation();
   return (
     <View className="flex-1 justify-center items-center">
-      <Text className="text-5xl text-blue-500 font-bold">hola</Text>
+      <Text className="text-5xl text-primary font-bold">hola</Text>
     </View>
   );
 }
